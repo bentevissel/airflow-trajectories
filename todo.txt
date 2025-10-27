@@ -1,0 +1,10 @@
+To do:
+- Jess:
+-> create objecti-oriented versions of bulk_traj and plot py-files
+
+- Bente:
+-> figure out how to have more params in hysplit + document it
+-> think of calculations and how to test them in the output
+
+
+- create .yaml file / work on the structure on Git
