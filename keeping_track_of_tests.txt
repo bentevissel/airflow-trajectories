@@ -1,8 +1,0 @@
-To create tests for:
-
-for class Inputs:
-- make sure start_time input is in string datetime format, otherwise return error
-- make sure meteo_dir path exists
-- make sure output_dir path exists
-- make sure -90 < lat < 90
-- make sure -180 < lon < 180
