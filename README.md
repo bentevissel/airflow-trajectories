@@ -17,6 +17,12 @@ Pysplit can be installed in the virtual environment using
 pip install pysplit
 ```
 
+# Installing the modules
+The requirements file describes the specific versions needed to run pysplit. Run the following command to install the right ones.
+```
+pip install -r requirements.txt
+```
+
 # Data
 The data has been obtained from https://www.ready.noaa.gov/data/archives/gdas1/
 
