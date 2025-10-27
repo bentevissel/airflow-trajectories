@@ -8,3 +8,6 @@ To do:
 
 
 - create .yaml file / work on the structure on Git
+- write workflows (whatever that is)
+- write tests
+

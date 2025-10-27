@@ -1,6 +1,0 @@
-To do:
-- .yaml file to configure the environment
-- write object-orientated scripts
-- write tests
-- work out how to run HYSPLIT so that it outputs meteorological parameters along the trajectory (SETUP.CFG file?)
-
