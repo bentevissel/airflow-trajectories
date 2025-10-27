@@ -1,0 +1,3 @@
+To create tests for:
+
+- make sure start_time input is in string datetime format, otherwise return errorO
